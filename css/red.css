@@ -1,0 +1,41 @@
+
+.banner nav .row .logo span svg path,
+.banner .banner-content .row .banner-text form button:hover span svg path,
+.banner .banner-content .links span svg path,
+.services .main-services .flex-service .service .svg-box span svg path ,
+.services .main-services .flex-service .service .service-content span svg path,
+.services .main-services .s-service span svg path,
+.services .main-services .s-service span svg rect
+
+ {
+    fill: #fe043c;
+  }
+  .banner .banner-content .links span svg circle{
+      stroke: #fe043c;
+  }
+
+
+  .section-title .text .border,
+  .banner .banner-content .row .banner-text form button,
+  .navbar,
+  .dishes .main-dishes .dish .dish-content .book-btn:hover,
+  footer .footer-content form button,
+  .btn-top:hover
+  {
+      background-color:  #fe043c;
+  }
+
+  .banner .banner-content .row .banner-text form button:hover{
+      border-color: #fe043c;
+  }
+  .dishes .main-dishes .dish .dish-content .book-btn,
+  .main-foods .food .food-content .price-name span,
+  footer .footer-content .bottom span ,
+  .btn-top i
+  {
+      color: #fe043c;
+  }
+
+  .dishes .main-dishes .dish .dish-content{
+    background-color: rgba(254, 4, 58, 0.7);
+  }
